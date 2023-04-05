@@ -59,5 +59,39 @@ a "Crow's Eye", "crows eye", "Euron Crow's Eye", "euron crows eye"
 q "**In A Storm of Swords, Jorah tells Daenerys that this creature haunts the Smoking Sea.**"
 a "Kraken", "krakens"
 
-q
-a
+q "**Name the house!**"
+a "House Celtigar", "Celtigar"
+i "https://i.imgur.com/T9LVys6.jpg
+
+q "**What was the name of Corlys Velaryon's ship?**"
+a "The Sea Snake", "Sea Snake"
+
+q "**In Season 8, Cersei was disappointed that the Golden Company didn't bring this animal?**"
+a "Elephants", "elephant"
+
+q "**House Forrester, from the Telltale game, has what tree on their sigil?**"
+a "Ironwood", "ironwood tree"
+
+q "**In Game of Thrones, Ellaria sends Myrcella's necklace to Cersei in the fangs of a ...?**"
+a "Viper"
+
+q "**What species of tree is found mostly in the North and beyond the Wall?**"
+a "Weirwood"
+
+q "**This island in Westeros is one of the few locations south of the Neck with a weirwood tree?**" 
+a "The Isle of Faces", "Isle of Faces"
+
+q "**Roose Bolton is also known by this wormy nickname.**"
+a "The Leech Lord", "leech lord", "lord of leeches"
+
+q "**Griffin's Roost is the seat of which house?**"
+a "House Connington", "Connington"
+
+q "**Raventree Hall is the seat of which house?**"
+a "House Blackwood", "Blackwood"
+
+q "**The Wolf's Den was the seat of which extinct house?**"
+a "House Greystark", "Greystark"
+
+q "**Crow's Nest is the seat of which house?**"
+a "House Morrigen", "Morrigen"
